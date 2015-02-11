@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>testGit</name>
+=======
+	<name>abc</name>
+>>>>>>> papiatarafdarbranch
 	<comment></comment>
 	<projects>
 	</projects>

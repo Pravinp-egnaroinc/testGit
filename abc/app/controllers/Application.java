@@ -9,7 +9,8 @@ public class Application extends Controller {
     public static Result index() 
     {
 
-        return ok(index.render("Hello World, this is Papia T!");
+        return ok(index.render("Hello World, this is Papa T!"));
+
     }
     public static Result admin() {
         return ok(Admin.render());
