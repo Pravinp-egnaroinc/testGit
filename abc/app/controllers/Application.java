@@ -11,7 +11,7 @@ public class Application extends Controller {
         return ok(index.render("Hello World, this is Bhautik!"));
 
     }
-    public static Result admin() {
+    public static Result adminLogin() {
         return ok(Admin.render());
     }
     public static Result pendingRequest() {
