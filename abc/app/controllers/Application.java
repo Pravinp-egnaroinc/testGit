@@ -7,7 +7,8 @@ import views.html.*;
 public class Application extends Controller {
 
     public static Result index() {
-        return ok(index.render("Hello World, this is Bhautik!"));
+
+        return ok(index.render("Hello World, this is Narendra!"));
     }
     public static Result admin() {
         return ok(Admin.render());
