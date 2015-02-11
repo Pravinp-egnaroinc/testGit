@@ -8,7 +8,7 @@ public class Application extends Controller {
 
     public static Result index() {
 
-        return ok(index.render("Hello World, this is Bhautik!"));
+        return ok(index.render("Hello World, this is Papia!"));
 
     }
     public static Result admin() {
